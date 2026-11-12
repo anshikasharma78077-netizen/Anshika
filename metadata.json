@@ -1,0 +1,6 @@
+{
+  "name": "Napkin AI – 15s Instagram Reel & Production Suite",
+  "description": "High-retention 15-second futuristic vertical Instagram Reel for Napkin AI, featuring interactive 9:16 playback, Web Audio sound design, synced Hinglish voiceover, and complete agency production package.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
